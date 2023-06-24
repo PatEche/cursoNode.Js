@@ -1,8 +1,11 @@
-# CURSO DE NODEJS 
 
+<div align="center">
+
+# CURSO DE NODEJS 
 <h3>Curso de Node Js dictado por el profesor Daniel Segovia</h3>
-<br>
-<br>
-<br>
-<br>
-<<img src="/cropped-logo_ds.png" alt="Logo curso">
+
+</div>
+
+![danielsegovia]https://danielsegovia.com/plataforma/wp-content/uploads/2023/03/cropped-logo_ds.png
+
+Este repositorio contendra todos los trabajos realizados durante el curso de Node Js.
