@@ -6,6 +6,6 @@
 
 </div>
 
-<img src="/cropped-logo_ds.png" alt="Logo DS">
+<img src="/cropped-logo_ds.png" alt="Logo DS" width="500" height="600">
 
 Este repositorio contendra todos los trabajos realizados durante el curso de Node Js.
