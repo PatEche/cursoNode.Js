@@ -9,7 +9,8 @@
 <div align="center">
 <img src="/cropped-logo_ds.png" alt="Logo DS" width="200" height="300">
 </div>
-
+<br>
+<br>
 <div class="textos">
 <h4>Este repositorio contendra todos los trabajos realizados durante el curso de Node Js.</h4>
 </div>
