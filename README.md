@@ -6,7 +6,7 @@
 
 </div>
 <br>
-<br>
+
 <div align="center">
 <img src="/cropped-logo_ds.png" alt="Logo DS" width="200" height="300">
 </div>
